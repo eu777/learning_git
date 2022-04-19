@@ -8,3 +8,5 @@ function helloWorld() {
 function printNumber7() {
 	console.log(7);
 }
+
+# new comment
